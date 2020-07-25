@@ -1,0 +1,29 @@
+.Button {
+  /* border: none; */
+  /* color: white; */
+  /* padding: 2px 8px; */
+  background-color: white;
+  border-color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  font-size: 14px;
+  margin: 4px 4px;
+  cursor: pointer;
+  /* position: absolute; */
+  height: 30px;
+  width: 30px;
+}
+
+/* .PlusButton {
+  background-color: #7fffd4;
+}
+
+.MinusButton {
+  background-color: #f44336;
+} */
+
+.ResetButton {
+  height: 30px;
+  width: 60px;
+}

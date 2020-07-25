@@ -1,0 +1,12 @@
+.TotalWrapper {
+  /* display: flex; */
+  /* flex-direction: column; */
+}
+
+.Counter {
+  /* margin: 0.5rem 1rem; */
+  /* align-self: center; */
+  width: 1rem;
+  text-align: center;
+  /* margin: 0 auto; */
+}
